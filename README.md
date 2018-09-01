@@ -10,3 +10,6 @@
 # $ cd ViruzMaker
 # $ chmod +x tobzviruz.py
 # $ python2 tobzviruz.py
+
+# By : TobzCyberTeam
+# Owner : Tobz
